@@ -1,6 +1,6 @@
 import qrcode
 
-data = "https://g.co/kgs/xoMtcy1"
+data = "https://www.cgitinstituteindore.com"
 
 code = qrcode.QRCode(
     version=1,
